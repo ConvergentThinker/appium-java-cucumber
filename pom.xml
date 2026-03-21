@@ -1,4 +1,4 @@
-# Appium Java Example
+# Appium Java Ex
 
 ## Test Environment Setup
 
