@@ -12,13 +12,7 @@
         <project.build.sourcencoding>UTF-8</project.build.sourcencoding>
     </properties>
 
-    <dependencies>
-
-        <dependency>
-            <groupId>io.github.wujiayi</groupId>
-            <artifactId>appium-wrapper</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
-        </dependency>
+    <depe
 
         <dependency>
             <groupId>info.cukes</groupId>
@@ -40,7 +34,7 @@
             <version>3.3.0</version>
         </dependency>
 
-        <dependency>
+        <depende
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>1.7.5</version>
