@@ -1,4 +1,4 @@
-# Appium Java Exampl
+# Appium Java Example
 
 ## Test Environment Setup
 
@@ -7,7 +7,7 @@
 * An Android Device (enabled debug mode) connected to Mac
 * No iOS physical device is needed at this moment, because mobile automation is now running on Simulator
 
-### oudfh dfh
+### Install Appium Server
 
 #### Command Line Version
 Install Homebrew: 
@@ -48,7 +48,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 ```
 Install Maven
 ```
-brew install maven
 ```
 
 ### Android & iOS Software Dependencies
