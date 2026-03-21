@@ -16,10 +16,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 ```
 Install node.js and npm :
 ```
-brew install node
-```
-Install appium by npm
-```
+
 npm install -g appium@1.4.13
 ```
 
@@ -48,7 +45,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 ```
 Install Maven
 ```
-brew install maven
 ```
 
 ### Android & iOS Software Dependencies
